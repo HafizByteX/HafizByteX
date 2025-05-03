@@ -42,9 +42,9 @@ An educational platform designed for high school students and parents.
 
 ### 🎓 Recognition
 
-![Certificate]([https://github.com/hafizbytex/hafizbytex/blob/main/certificate.png?raw=true](https://github.com/HafizByteX/HafizByteX/blob/main/Recognition.jpg?raw=true))
+![Certificate](https://github.com/HafizByteX/HafizByteX/blob/main/Recognition.jpg?raw=true)
 
-[📄 Download Certificate]([https://github.com/hafizbytex/hafizbytex/blob/main/certificate.png?raw=true](https://github.com/HafizByteX/HafizByteX/blob/main/Recognition.jpg?raw=true))
+[📄 Download Certificate](https://github.com/HafizByteX/HafizByteX/blob/main/Recognition.jpg?raw=true)
 
 
 ## 📫 Contact  
