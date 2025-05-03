@@ -38,7 +38,14 @@ An educational platform designed for high school students and parents.
 - 🔐 Separate access for students and public visitors
 
 ## 📜 Achievements  
-🏆 Received recognition certificate from my university for outstanding work on the school website project. *(Add screenshot or PDF badge below – see note below)*
+🏆 Received recognition certificate from my school for outstanding work on the school website project.
+
+### 🎓 Recognition
+
+![Certificate]([https://github.com/hafizbytex/hafizbytex/blob/main/certificate.png?raw=true](https://github.com/HafizByteX/HafizByteX/blob/main/Recognition.jpg?raw=true))
+
+[📄 Download Certificate]([https://github.com/hafizbytex/hafizbytex/blob/main/certificate.png?raw=true](https://github.com/HafizByteX/HafizByteX/blob/main/Recognition.jpg?raw=true))
+
 
 ## 📫 Contact  
 - 📧 **Email:** abdulhafizy315@gmail.com  
@@ -47,3 +54,6 @@ An educational platform designed for high school students and parents.
 ## 📈 GitHub Stats
 
 ![Abdulhafiz's GitHub stats](https://github-readme-stats.vercel.app/api?username=hafizbytex&show_icons=true&theme=default)
+
+
+
